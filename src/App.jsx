@@ -1,3 +1,5 @@
+// adding comment for re-deploy
+
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import { NoteProvider } from './context/NoteContext';
